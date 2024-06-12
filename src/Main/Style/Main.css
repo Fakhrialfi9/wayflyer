@@ -77,15 +77,29 @@
 
 .LazyLoading {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   width: 100vw;
   max-width: 100vw;
-  height: 100vw;
-  max-height: 100vw;
+  height: 100vh;
+  max-height: 100vh;
   justify-content: center;
   align-items: center;
   align-content: center;
   margin: 0;
   padding: 0;
   background-color: var(--primary-color);
+  gap: 2rem;
+}
+
+.LazyLoading h5 {
+  font-size: 5rem;
+  font-weight: 700;
+  color: var(--white-color);
+}
+
+.LazyLoading img {
+  width: 8%;
+  max-width: 8%;
+  height: auto;
+  max-height: auto;
 }
