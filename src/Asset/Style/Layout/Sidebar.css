@@ -1,0 +1,234 @@
+.MainSidebar {
+  display: flex;
+  flex-direction: column;
+  width: 20vw !important;
+  max-width: 20vw !important;
+  height: 100vh !important;
+  max-height: 100vh !important;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 0;
+  padding: 0;
+  margin-right: auto;
+  background-color: var(--white-color);
+}
+
+.Sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  max-height: 100%;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.SidebarContent {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  max-height: 100%;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  margin: 0;
+  padding: 0;
+  gap: 2.5rem;
+}
+
+.SidebarContentTop {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: auto;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.SidebarContentTop-Left {
+  display: flex;
+  flex-direction: row;
+  width: 70%;
+  max-width: 70%;
+  height: auto;
+  max-height: auto;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: center;
+  margin: 0;
+  padding: 0;
+  gap: 0.5rem;
+}
+
+.SidebarContentTop-Left img {
+  width: 15%;
+  max-width: 15%;
+  height: auto;
+  max-height: auto;
+}
+
+.SidebarContentTop-Left h5 {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.SidebarContentTop-Right {
+  display: flex;
+  flex-direction: row;
+  width: 30%;
+  max-width: 30%;
+  height: auto;
+  max-height: auto;
+  justify-content: flex-end;
+  align-items: center;
+  align-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.SidebarContentTop-Right button {
+  font-size: 0.85rem;
+  padding: 0.1rem 0.5rem;
+  border: 0.05rem solid var(--grey-color);
+  background-color: transparent;
+  color: var(--grey-color);
+}
+
+.SidebarContentTop-Right button:hover {
+  background-color: var(--primary-color);
+  border: 0.05rem solid transparent;
+  color: var(--light-color);
+}
+
+.SidebarContentCenter {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: auto;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: center;
+  margin: 0;
+  padding: 0;
+  gap: 1.5rem;
+}
+
+.SidebarContentCenter-Navigasi {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: auto;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: center;
+  margin: 0;
+  padding: 0;
+  gap: 0.85rem;
+}
+
+.SidebarContentCenter-Navigasi h6 {
+  font-size: 0.85rem;
+  font-weight: 500;
+  gap: 0.5rem;
+  color: var(--grey-color);
+}
+
+.SidebarContentCenter-Navigasi ul {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: auto;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+.SidebarContentCenter-Navigasi li {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  max-height: auto;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: center;
+  margin: 0.65rem 0;
+  padding: auto;
+  cursor: pointer;
+}
+
+.SidebarContentCenter-Navigasi li:hover {
+  background-color: var(--bg-color);
+  border-radius: var(--border-radius);
+}
+
+.SidebarContentCenter-Navigasi li:first-child {
+  margin-top: 0;
+}
+
+.SidebarContentCenter-Navigasi li:last-child {
+  margin-bottom: 0;
+}
+
+.SidebarContentCenter-Navigasi a {
+  display: flex;
+  flex-direction: row;
+  font-size: 0.85rem;
+  font-weight: 300;
+  gap: 0.65rem;
+  color: var(--dark-color);
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+
+.BoxIconApps {
+  display: flex;
+  flex-direction: column;
+  width: 1.5rem;
+  max-width: 1.5rem;
+  height: 1.5rem;
+  max-height: 1.5rem;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  vertical-align: middle;
+  margin: 0;
+  padding: 0.365rem;
+  background-color: var(--white-color);
+  border-radius: var(--border-radius-sm);
+}
+
+.BoxIconApps svg {
+  color: var(--primary-color);
+}
+
+.RedBackground {
+  background-color: #ff4d4d;
+}
+
+.RedBackground svg {
+  color: var(--white-color) !important;
+}

@@ -1,0 +1,53 @@
+// Storage/Database/DataTable.jsx
+const DataTable = [
+  {
+    period: "Today",
+    session: 123,
+    newUsers: 456,
+    bounceRate: "78%",
+    average: 1.2,
+    pageview: 100,
+    conversionrate: 200,
+    goal1: 34,
+    goal2: 56,
+    trend: "up",
+  },
+  {
+    period: "This Week",
+    session: 789,
+    newUsers: 123,
+    bounceRate: "45%",
+    average: 3.4,
+    pageview: 540,
+    conversionrate: 240,
+    goal1: 78,
+    goal2: 90,
+    trend: "down",
+  },
+  {
+    period: "This Month",
+    session: 456,
+    newUsers: 789,
+    bounceRate: "67%",
+    average: 2.5,
+    pageview: 200,
+    conversionrate: 100,
+    goal1: 12,
+    goal2: 34,
+    trend: "up",
+  },
+  {
+    period: "This Years",
+    session: 123,
+    newUsers: 456,
+    bounceRate: "78%",
+    average: 1.2,
+    pageview: 150,
+    conversionrate: 550,
+    goal1: 34,
+    goal2: 56,
+    trend: "down",
+  },
+];
+
+export default DataTable;
