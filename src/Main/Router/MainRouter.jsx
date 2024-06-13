@@ -35,15 +35,21 @@ function MainRouter() {
           <div className="MainContent">
             <div className="Sidebar-LeftContent">
               <Routes>
+                <Route path="/" Component={Sidebar} />
                 <Route path="wayflayer/" Component={Sidebar} />
+                <Route path="/wayflayer" Component={Sidebar} />
               </Routes>
             </div>
             <div className="Pages-RightContent">
               <Routes>
+                <Route path="/" Component={Navbar} />
                 <Route path="wayflayer/" Component={Navbar} />
+                <Route path="/wayflayer" Component={Navbar} />
               </Routes>
               <Routes>
+                <Route path="/" Component={Pages} />
                 <Route path="wayflayer/" Component={Pages} />
+                <Route path="/wayflayer" Component={Pages} />
               </Routes>
             </div>
           </div>
