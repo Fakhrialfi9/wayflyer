@@ -17,7 +17,7 @@ function MainRouter() {
   useEffect(() => {
     const timeout = setTimeout(() => {
       setLoading(false);
-    }, 5000);
+    }, 4500);
     return () => clearTimeout(timeout);
   }, []);
 
