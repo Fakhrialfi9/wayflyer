@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/wayflyer/static/css/main.73d88ab0.css",
+    "main.js": "/wayflyer/static/js/main.3e7d7e4d.js",
+    "static/css/190.e679e0aa.chunk.css": "/wayflyer/static/css/190.e679e0aa.chunk.css",
+    "static/js/190.2336af09.chunk.js": "/wayflyer/static/js/190.2336af09.chunk.js",
+    "static/css/457.df33f134.chunk.css": "/wayflyer/static/css/457.df33f134.chunk.css",
+    "static/js/457.453441fb.chunk.js": "/wayflyer/static/js/457.453441fb.chunk.js",
+    "static/css/926.1357a852.chunk.css": "/wayflyer/static/css/926.1357a852.chunk.css",
+    "static/js/926.294a8c01.chunk.js": "/wayflyer/static/js/926.294a8c01.chunk.js",
+    "static/js/453.985a2f27.chunk.js": "/wayflyer/static/js/453.985a2f27.chunk.js",
+    "static/js/446.d6a6b90f.chunk.js": "/wayflyer/static/js/446.d6a6b90f.chunk.js",
+    "static/js/916.fe44d495.chunk.js": "/wayflyer/static/js/916.fe44d495.chunk.js",
+    "static/js/836.a8893011.chunk.js": "/wayflyer/static/js/836.a8893011.chunk.js",
+    "static/js/892.202d8470.chunk.js": "/wayflyer/static/js/892.202d8470.chunk.js",
+    "static/media/DashBoard.svg": "/wayflyer/static/media/DashBoard.5d7b89bf2f8cc8228228a62b1c47bb04.svg",
+    "static/media/Logo-Wayflyer-Tosca.svg": "/wayflyer/static/media/Logo-Wayflyer-Tosca.62b193288dfef1a516b1caa354a5ee64.svg",
+    "static/media/Logo-Wayflyer.svg": "/wayflyer/static/media/Logo-Wayflyer.84b220172e817e0cfc8db9833dfcefc2.svg",
+    "index.html": "/wayflyer/index.html",
+    "main.73d88ab0.css.map": "/wayflyer/static/css/main.73d88ab0.css.map",
+    "main.3e7d7e4d.js.map": "/wayflyer/static/js/main.3e7d7e4d.js.map",
+    "190.e679e0aa.chunk.css.map": "/wayflyer/static/css/190.e679e0aa.chunk.css.map",
+    "190.2336af09.chunk.js.map": "/wayflyer/static/js/190.2336af09.chunk.js.map",
+    "457.df33f134.chunk.css.map": "/wayflyer/static/css/457.df33f134.chunk.css.map",
+    "457.453441fb.chunk.js.map": "/wayflyer/static/js/457.453441fb.chunk.js.map",
+    "926.1357a852.chunk.css.map": "/wayflyer/static/css/926.1357a852.chunk.css.map",
+    "926.294a8c01.chunk.js.map": "/wayflyer/static/js/926.294a8c01.chunk.js.map",
+    "453.985a2f27.chunk.js.map": "/wayflyer/static/js/453.985a2f27.chunk.js.map",
+    "446.d6a6b90f.chunk.js.map": "/wayflyer/static/js/446.d6a6b90f.chunk.js.map",
+    "916.fe44d495.chunk.js.map": "/wayflyer/static/js/916.fe44d495.chunk.js.map",
+    "836.a8893011.chunk.js.map": "/wayflyer/static/js/836.a8893011.chunk.js.map",
+    "892.202d8470.chunk.js.map": "/wayflyer/static/js/892.202d8470.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d88ab0.css",
+    "static/js/main.3e7d7e4d.js"
+  ]
+}
